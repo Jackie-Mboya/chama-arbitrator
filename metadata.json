@@ -1,0 +1,8 @@
+{
+  "name": "Msuluhishi wa Chama",
+  "description": "A neutral AI mediator for Kenyan investment groups (chamas) that resolves disputes based on bylaws and financial records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
