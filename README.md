@@ -100,7 +100,7 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## 🖼️ Screenshots / Demo
 
-> **Demo Video:** [Watch on YouTube](#) *(replace with actual link)*
+>
 
 | Welcome Screen | Arbitration Ruling |
 |---|---|
