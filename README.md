@@ -43,7 +43,7 @@ Express.js Server (server.ts)
 **Tools / Capabilities:**
 | Tool | Description |
 |---|---|
-| Bylaws Ingestion | User uploads/pastes bylaws (`.txt`, `.csv`, `.xls`, `.xlsx`); injected into system prompt |
+| Bylaws Ingestion | User uploads/pastes bylaws (`.txt`, `.csv`, `.xls`, `.xlsx`, `.pdf`); injected into system prompt |
 | M-Pesa Auditing | Upload M-Pesa statements; AI cross-references transactions against claims |
 | Conversation History | Full multi-turn chat history passed per request for contextual rulings |
 | Language Detection | AI auto-matches English, Kiswahili, or Sheng based on user input |
@@ -60,7 +60,7 @@ Express.js Server (server.ts)
 ### Steps
 
 ```bash
-git clone https://github.com/<your-username>/chama-arbitrator.git
+git clone https://github.com/Jackie-Mboya/chama-arbitrator.git
 cd chama-arbitrator
 npm install
 ```
